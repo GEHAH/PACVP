@@ -11,7 +11,7 @@ PACOVP: A Stacking-Based Learning Strategy to Predict Anti-coronavirus peptides 
 - Download `PACOVP`to your computer
 
   ```bash
-  git clone https://github.com/csz_xju/PACOVP.git
+  git clone https://github.com/csz-xju/PACOVP.git
   ```
   ## How to Use
   
