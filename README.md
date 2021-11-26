@@ -1,5 +1,5 @@
-# PACOVP
-PACOVP: A Stacking-Based Learning Strategy to Predict Anti-coronavirus peptides Using Effective Feature Representation
+# PACVP
+PACVP: A Stacking-Based Learning Strategy to Predict Anti-coronavirus peptides Using Effective Feature Representation
 - Requirement
 
   - `Windows` ：Windows7 or later
@@ -11,7 +11,7 @@ PACOVP: A Stacking-Based Learning Strategy to Predict Anti-coronavirus peptides 
 - Download `PACOVP`to your computer
 
   ```bash
-  git clone https://github.com/CL-XJU/PACOVP.git
+  git clone https://github.com/CL-XJU/PACVP.git
   ```
   ## How to Use
   
