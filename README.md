@@ -1,5 +1,7 @@
 # PACVP
 PACVP: A Stacking-Based Learning Strategy to Predict Anti-coronavirus peptides Using Effective Feature Representation
+<img width="4001" alt="演示文稿1" src="https://user-images.githubusercontent.com/74239672/143756907-e3a76693-7300-4b80-b8dd-54dcf6726eb8.png">
+
 - Requirement
 
   - `Windows` ：Windows7 or later
